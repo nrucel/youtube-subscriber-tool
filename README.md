@@ -1,4 +1,6 @@
 # nrucel YT Tools
+example/örnek: https://aboneapp.com | Forum: https://nrucel.me/forum | Discord: https://discord.gg/veWZcfD
+<br>
 **TR:** bu araç ile youtube abone gönderme işlemlerini yapabilirsiniz. Bu scripti kullanabilmeniz için benim tarafımdan size verilmiş bir anahtara ihtiyacınız olacak. Bu anahtar ile sistem sorunsuz çalışacaktır. Sistem api üzerine kuruludur. proxy gerektirmez.
 <br /><br />
 **Anahtarı nasıl alırım ?** <br />
