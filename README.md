@@ -8,7 +8,7 @@ nurullahcelik@yandex.com adresine mail atınız.<br />
 e-mail başlık:  nrucel ig tools key<br />
 e-mail içerik: giriş için eposta, şifre ve Ad soyad.<br />
 
-**ENG:** With this tool, you can do instagram login, followers increase and liking. In order to use this script, you will need a key given by me. With this key the system will run smoothly. The system is based on api. No proxy required.
+**ENG:** With this tool you can duplicate your youtube subscriber. In order to use this script, you will need a key given by me. With this key the system will run smoothly. The system is based on api. No proxy required.
 <br /><br />
 **How do I get the key?**<br />
 Send an e-mail to nurullahcelik@yandex.com.<br />
