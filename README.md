@@ -21,7 +21,7 @@ e-mail content: login for email, password and real name.<br />
 	'password' => 'db_password',
 	'database' => 'db_username',
 ```
-**3)** veritabanına nrIGdb.sql dosyasını yükleyin. / Install the nrIGdb.sql file in the database.
+**3)** veritabanına nrIGdb.sql.gz dosyasını yükleyin. / Install the nrIGdb.sql.gz file in the database.
 
 **admin panel**: site.com/vip <br />
 **email:** nurullahcelik@yandex.com<br />
